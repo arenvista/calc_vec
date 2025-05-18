@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "373049f2c2a037e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "01284f43bb916944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685adb44fd2e4da7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5739e783ab53263",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b4972d207715ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bee1f10fc976b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3ed899d2ccb8d8b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2e7aee1510dc4103",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96e76d56c3e9f6e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a876238b7c6b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "611160dfabae44db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "6f9e0ffe79b5df6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "e25bd2987a210dc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a5b1cccf419fd7a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "floating": {
+    "id": "cbf2b78d45f3d1ba",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b0cdee5f29284ca4",
+        "type": "window",
+        "children": [
+          {
+            "id": "32c50ec2efd7cfd4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f795b2ff51c9571",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3845,
+        "y": 61,
+        "width": 1251,
+        "height": 1356,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "685adb44fd2e4da7",
+  "lastOpenFiles": [
+    "Exam_Review.md",
+    "1747605152-XQAA.md~",
+    "1747603307-SQNM.md",
+    "1747603439-YONM.md",
+    "1747601286-KHGK.md",
+    "1747605152-XQAA.md",
+    "1747605226-AZIV.md",
+    "Exam_Review.md~",
+    "1747605226-AZIV.md~",
+    "1747604741-KEEG.md",
+    "1747604741-KEEG.md~",
+    "1747604639-LGYR.md",
+    "1747604639-LGYR.md~",
+    "1747601286-KHGK.md~",
+    "1747604287-IYSC.md",
+    "1747596143-VBQF.md~",
+    "1747604287-IYSC.md~",
+    "1747511415-NITJ.md",
+    "1747511415-NITJ.md~",
+    "1747526919-FHTP.md",
+    "1747595505-MTSV.md",
+    "1747596143-VBQF.md",
+    "1747603844-QNXM.md",
+    "1747602556-LBQC.md",
+    "1747601149-UXBW.md",
+    "1747600851-SZZI.md",
+    "1747599095-YPQP.md",
+    "1747598768-NUAP.md",
+    "1747598689-YSIE.md",
+    "1747598689-YSIE.md~",
+    "1747597252-FFIU.md",
+    "1747597145-XCUN.md",
+    "1747594764-ZDEL.md",
+    "1747596665-XUGT.md",
+    "1747595585-NGGN.md",
+    "lin_alg/1747594664-LYCH.md"
+  ]
+}
