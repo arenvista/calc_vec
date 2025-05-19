@@ -11,10 +11,14 @@
             "id": "685adb44fd2e4da7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1747613904-TVCB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1747613904-TVCB"
             }
           }
         ]
@@ -190,10 +194,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 3845,
-        "y": 61,
-        "width": 1251,
-        "height": 1356,
+        "x": 3546,
+        "y": 1115,
+        "width": 1551,
+        "height": 302,
         "maximize": false,
         "zoom": 0
       }
@@ -201,41 +205,40 @@
   },
   "active": "685adb44fd2e4da7",
   "lastOpenFiles": [
+    "1747613904-TVCB.md~",
+    "1747614187-TULT.md",
+    "1747614187-TULT.md~",
+    "1747610134-YZOA.md",
+    "1747614253-AOPU.md",
+    "1747614253-AOPU.md~",
+    "1747613904-TVCB.md",
+    "1747610074-QGDM.md",
+    "1747610074-QGDM.md~",
+    "1747610222-TVNI.md",
+    "1747610222-TVNI.md~",
+    "1747610134-YZOA.md~",
+    "1747609958-RVDU.md",
+    "1747609958-RVDU.md~",
+    "1747609608-ZKXK.md",
+    "1747609213-IJXG.md~",
+    "1747609608-ZKXK.md~",
+    "1747609213-IJXG.md",
+    "Exam_Review.md~",
     "Exam_Review.md",
-    "1747605152-XQAA.md~",
     "1747603307-SQNM.md",
     "1747603439-YONM.md",
     "1747601286-KHGK.md",
     "1747605152-XQAA.md",
     "1747605226-AZIV.md",
-    "Exam_Review.md~",
-    "1747605226-AZIV.md~",
     "1747604741-KEEG.md",
-    "1747604741-KEEG.md~",
     "1747604639-LGYR.md",
-    "1747604639-LGYR.md~",
-    "1747601286-KHGK.md~",
     "1747604287-IYSC.md",
-    "1747596143-VBQF.md~",
-    "1747604287-IYSC.md~",
     "1747511415-NITJ.md",
-    "1747511415-NITJ.md~",
     "1747526919-FHTP.md",
     "1747595505-MTSV.md",
     "1747596143-VBQF.md",
     "1747603844-QNXM.md",
     "1747602556-LBQC.md",
-    "1747601149-UXBW.md",
-    "1747600851-SZZI.md",
-    "1747599095-YPQP.md",
-    "1747598768-NUAP.md",
-    "1747598689-YSIE.md",
-    "1747598689-YSIE.md~",
-    "1747597252-FFIU.md",
-    "1747597145-XCUN.md",
-    "1747594764-ZDEL.md",
-    "1747596665-XUGT.md",
-    "1747595585-NGGN.md",
-    "lin_alg/1747594664-LYCH.md"
+    "1747601149-UXBW.md"
   ]
 }
