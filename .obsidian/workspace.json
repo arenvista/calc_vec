@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1747613904-TVCB.md",
+                "file": "1747609608-ZKXK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1747613904-TVCB"
+              "title": "1747609608-ZKXK"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "96e76d56c3e9f6e0",
@@ -184,34 +185,42 @@
                 "id": "6f795b2ff51c9571",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "1747615736-AMKD.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1747615736-AMKD"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 3546,
-        "y": 1115,
-        "width": 1551,
-        "height": 302,
+        "x": 2292,
+        "y": 745,
+        "width": 1141,
+        "height": 672,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "685adb44fd2e4da7",
+  "active": "6f795b2ff51c9571",
   "lastOpenFiles": [
+    "1747615736-AMKD.md~",
+    "1747615736-AMKD.md",
+    "1747609608-ZKXK.md~",
+    "1747609608-ZKXK.md",
+    "1747614253-AOPU.md~",
+    "1747613904-TVCB.md",
     "1747613904-TVCB.md~",
     "1747614187-TULT.md",
     "1747614187-TULT.md~",
     "1747610134-YZOA.md",
     "1747614253-AOPU.md",
-    "1747614253-AOPU.md~",
-    "1747613904-TVCB.md",
     "1747610074-QGDM.md",
     "1747610074-QGDM.md~",
     "1747610222-TVNI.md",
@@ -219,9 +228,7 @@
     "1747610134-YZOA.md~",
     "1747609958-RVDU.md",
     "1747609958-RVDU.md~",
-    "1747609608-ZKXK.md",
     "1747609213-IJXG.md~",
-    "1747609608-ZKXK.md~",
     "1747609213-IJXG.md",
     "Exam_Review.md~",
     "Exam_Review.md",
@@ -238,7 +245,6 @@
     "1747595505-MTSV.md",
     "1747596143-VBQF.md",
     "1747603844-QNXM.md",
-    "1747602556-LBQC.md",
-    "1747601149-UXBW.md"
+    "1747602556-LBQC.md"
   ]
 }
